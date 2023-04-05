@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Drink a Limonade</string>
+    <string name="limoes">limoes</string>
+    <string name="cliqueAqui">Selecione o Limão</string>
+    <string name="select_string">Clique para selecionar um limao</string>
+    <string name="squeeze_string">Clique para expremer o limão</string>
+    <string name="drink_string">Clique para beber o suco</string>
+    <string name="reset_string">Clique para começar novamente</string>
+    <string name="squeeze_count">Continue expremendo, ainda faltam %1$d vezes.</string>
 </resources>
